@@ -7,7 +7,7 @@ This repository includes two projects in data analysis.
 
 # China Housing Data Analysis Project
 
-This GitHub repository contains a comprehensive data analysis project focused on real estate data for homes in the city of Beijing. The project involves data preprocessing, exploratory data analysis (EDA), and visualization of the results through various charts and graphs. The primary goal is to extract meaningful insights and patterns from the dataset.
+This project contains a comprehensive data analysis project focused on real estate data for homes in the city of Beijing. The project involves data preprocessing, exploratory data analysis (EDA), and visualization of the results through various charts and graphs. The primary goal is to extract meaningful insights and patterns from the dataset.
 
 ## Introduction<a name="introduction"></a>
 
