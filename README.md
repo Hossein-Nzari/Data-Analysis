@@ -1,5 +1,5 @@
 # Data-Analysis
-This repository includes two projects in data science and data analysis.
+This repository includes two projects in data analysis.
 
 - [China Housing Data Analysis Project](#china-housing-data-analysis-project)
 - ["sib" company Data Analysis Project](#sib-company-data-analysis-project)
