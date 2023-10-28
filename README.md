@@ -1,22 +1,30 @@
 # Data-Analysis
 This repository includes two projects in data science and data analysis.
 
-# Beijing House Data Analysis Project
+# Beijing Housing Data Analysis Project
 
-## Overview
+This GitHub repository contains a comprehensive data analysis project focused on real estate data for homes in the city of Beijing. The project involves data preprocessing, exploratory data analysis (EDA), and visualization of the results through various charts and graphs. The primary goal is to extract meaningful insights and patterns from the dataset.
 
-This project focuses on the analysis of real estate data for homes in the city of Beijing. We perform comprehensive and insightful analyses on this dataset and present the results through the creation of informative visualizations and graphs.
+## Introduction<a name="introduction"></a>
 
-The project is divided into four main sections:
+The project is structured into four main sections:
 
-1. **Data Reading and Preprocessing**
-   - In this section, we read the data and remove unnecessary columns. We also address missing values in the dataset.
+### 1. Data Preprocessing
 
-2. **Data Formatting and Outlier Handling**
-   - The second part involves formatting the columns into the appropriate data types and removing outliers in the data.
+In this section, we read the raw data and clean it by removing unnecessary columns and handling missing values. Data is prepared for further analysis.
 
-3. **Feature Engineering**
-   - In the third section, we leverage the existing features to create new ones that will be crucial in the following two steps.
+### 2. Feature Engineering
 
-4. **Geospatial Visualization**
-   - Using the geographical latitude and longitude of the houses, we visualize them on a map to gain a general overview of the distribution in the region.
+Data columns are transformed into appropriate formats, and outliers are identified and removed. New features are created using existing ones, which will be crucial for subsequent analysis.
+
+### 3. Geospatial Visualization
+
+Geographical information such as longitude and latitude is leveraged to plot the houses on a map. This visual representation provides a comprehensive overview of the distribution of properties in the city.
+
+### 4. Time Series Analysis
+
+The project concludes with a time series analysis of transaction data. Trends and patterns in transaction times are explored, providing valuable insights into the dynamics of the real estate market in Beijing.
+
+## Data Sources
+
+The dataset used for this project contains real estate information for homes in Beijing. It includes details about property characteristics, transaction data, and geographical information.
