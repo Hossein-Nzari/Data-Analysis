@@ -1,11 +1,11 @@
 # Data-Analysis
 This repository includes two projects in data analysis.
 
-- [China Housing Data Analysis Project](#china-housing-data-analysis-project)
+- [ Housing Data Analysis Project](#-housing-data-analysis-project)
 - ["sib" company Data Analysis Project](#sib-company-data-analysis-project)
 
 
-# China Housing Data Analysis Project
+#  Housing Data Analysis Project
 
 This project contains a comprehensive data analysis project focused on real estate data for homes in the city of Beijing. The project involves data preprocessing, exploratory data analysis (EDA), and visualization of the results through various charts and graphs. The primary goal is to extract meaningful insights and patterns from the dataset.
 
